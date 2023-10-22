@@ -610,7 +610,7 @@
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max fov="140" fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360"/>
     </view>
-    <userdata tags="bnc" comment="84A" nodeid="node19" description="1층" author="" datetime="" info="" customnodeid="" heading="0" copyright="" title="거실" source="" latitude="" longitude=""/>
+    <userdata tags="" comment="84A" nodeid="node19" description="1층" author="" datetime="" info="" customnodeid="" heading="0" copyright="" title="거실" source="" latitude="" longitude=""/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label height="20" background="1" border="1" wordwrap="1" borderradius="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
